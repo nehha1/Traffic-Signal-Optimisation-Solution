@@ -53,4 +53,5 @@ To train the model:
 
 ## Contributors
 
-Keshav Dadhich, Neha Naik
+Neha Naik
+Keshav Dadhich
